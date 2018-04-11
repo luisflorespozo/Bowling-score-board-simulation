@@ -1,3 +1,0 @@
-From v1.0 to v2.0 the progress has been saved in these files. I have used DevC to run the codes.
-
-Thank you
